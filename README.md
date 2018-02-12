@@ -1,6 +1,6 @@
 # BTC Tracker
 
-Two methods for tracking Bitcoin prices, uses (blockchain.info)[blockchain.info] for getting latest trade
+Two methods for tracking Bitcoin prices, uses [blockchain.info](blockchain.info) for getting latest trade
 
 # Command line 
 Simply run `python3 get_btc_value.py`
